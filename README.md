@@ -1,1 +1,1 @@
-# seinnakvikun-myrecipes-outpput
+# seinnakvikun-myrecipes-output
